@@ -4,7 +4,6 @@
 - Autodupe MOD
 - [guangfu.ren](https://guangfu.ren)
 - jmoink
-- [hpgf.icu](https://hpgf.icu)
-- **lx-evoled**
+- [lx-evolved](https://github.com/ljm12914/lx-evolved)
 
 还有很多私人项目没有列出……………………😭

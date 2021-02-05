@@ -1,9 +1,8 @@
 # 目咕前咕正咕在咕做咕的咕项咕目咕有
-- Minecraft知识之家
-- Time To Work
-- Autodupe MOD
-- [guangfu.ren](https://guangfu.ren)
-- jmoink
-- [lx-evolved](https://github.com/ljm12914/lx-evolved)
+- mine\*\*\*（不得已保护未注册域名屏蔽部分字母）
+- Time To Work（正在开发）
+- Autodupe（已咕 重开时间待定）
+- [guangfu.ren](https://guangfu.ren)（已搁置）
+- jmoink（正在开发）
 
-还有很多私人项目没有列出……………………😭
+![咕](https://pic4.zhimg.com/80/v2-865d3f9491ce5cb2ddaf806519350cee_720w.jpg)

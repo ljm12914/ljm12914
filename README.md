@@ -6,5 +6,6 @@
 - jmoink（正在开发）
 - lauth（正在开发）
 - [LPlayer](https://github.com/ljm12914/LPlayer)（正在开发）
+- [luery](https://github.com/ljm12914/luery)（准备开始开发）
 
 ![咕](https://pic4.zhimg.com/80/v2-865d3f9491ce5cb2ddaf806519350cee_720w.jpg)

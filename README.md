@@ -1,5 +1,5 @@
 # 目咕前咕正咕在咕做咕的咕项咕目咕有
-- mine\*\*\*（不得已保护未注册域名屏蔽部分字母）
+- mi\*\*\*\*\*（保护未注册域名）
 - Time To Work（正在开发）
 - [Autodupe](https://github.com/ljm12914/Autodupe)（已咕 重开时间待定）
 - [guangfu.ren](https://guangfu.ren)（已搁置）

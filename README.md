@@ -50,4 +50,10 @@ I'm a/an...
 
 Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://github.com/openink), [AboveBedrock SMP](https://github.com/abovebedrock) and [SCU Feiyang Club](https://github.com/fyscu)!
 
-GPG Key ID: `CCB024A695348EE3`
+GPG Key IDs:
+
+`27831853AE9AF16C` (until 2026.5.27)
+
+~~`CCB024A695348EE3`~~ (deprecated)
+
+~~`6B8C3489FEFB96D2`~~ (deprecated)

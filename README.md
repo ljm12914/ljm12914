@@ -30,6 +30,7 @@ I'm a/an...
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 </p>
 <p>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
@@ -57,3 +58,4 @@ GPG Key IDs:
 ~~`CCB024A695348EE3`~~ (deprecated)
 
 ~~`6B8C3489FEFB96D2`~~ (deprecated)
+

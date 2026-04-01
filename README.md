@@ -45,7 +45,7 @@ I'm a/an...
 
 **It's a shame of open source to allow unrewarded commercial use.**
 
-Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://github.com/openink), [AboveBedrock SMP](https://github.com/abovebedrock) and [SCU Feiyang Club](https://github.com/fyscu)!
+Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://github.com/openink), [SCU Covariant](https://github.com/scu-covariant) and [SCU Feiyang Club](https://github.com/fyscu)!
 
 GPG Key IDs:
 

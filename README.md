@@ -49,7 +49,9 @@ Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://
 
 GPG Key IDs:
 
-`27831853AE9AF16C` (until 2026.5.27)
+`BEA7015100AF30BF` until (2027.5.27)
+
+~~`27831853AE9AF16C`~~ (revoked)
 
 ~~`CCB024A695348EE3`~~ (deprecated)
 

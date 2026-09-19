@@ -5,9 +5,10 @@
 I'm a/an...
 
 - Undergraduate at Sichuan University, China
-- Frontend noob who like reinventing wheels
-- C++ memory leaker & compiler-oriented programmer
 - "Open source" enthusiast
+- Slop paper producer
+- C++ memory leaker & compiler-oriented programmer
+- Frontend noob who like reinventing wheels
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP,C&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
@@ -45,15 +46,18 @@ I'm a/an...
 
 **It's a shame of open source to allow unrewarded commercial use.**
 
+SCU related projects & course materials at [SCU-dev](https://github.com/scu-dev).
+
 Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://github.com/openink), [SCU Covariant](https://github.com/scu-covariant) and [SCU Feiyang Club](https://github.com/fyscu)!
 
-GPG Key IDs:
+<details>
+  <summary>GPG Key IDs</summary>
 
-`BEA7015100AF30BF` until (2027.5.27)
+  `BEA7015100AF30BF` until (2027.5.27)
 
-~~`27831853AE9AF16C`~~ (revoked)
+  ~~`27831853AE9AF16C`~~ (revoked)
 
-~~`CCB024A695348EE3`~~ (deprecated)
+  ~~`CCB024A695348EE3`~~ (deprecated)
 
-~~`6B8C3489FEFB96D2`~~ (deprecated)
-
+  ~~`6B8C3489FEFB96D2`~~ (deprecated)
+</details>

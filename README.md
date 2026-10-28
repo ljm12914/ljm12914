@@ -48,7 +48,9 @@ I'm a/an...
 
 SCU related projects & course materials at [SCU-dev](https://github.com/scu-dev).
 
-Open source at [CherryRidge](https://github.com/cherryridge), [Openink](https://github.com/openink), [SCU Covariant](https://github.com/scu-covariant) and [SCU Feiyang Club](https://github.com/fyscu)!
+Working on "open source": [CherryRidge](https://github.com/cherryridge), [Labloom](https://github.com/labloom-dev), [Vestige-lixue](https://github.com/vestige-lixue), [Openink](https://github.com/openink) and [AOO Language](https://github.com/aoo-lang).
+
+Member of [SCU Covariant](https://github.com/scu-covariant) and [SCU Feiyang Club](https://github.com/fyscu).
 
 <details>
   <summary>GPG Key IDs</summary>
